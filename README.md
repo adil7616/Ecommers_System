@@ -43,4 +43,30 @@ Perfect project to practice:
 1️⃣ Clone this repository:
 
 ```bash
-git clone https://github.com/adil7616/ECommerce-Shopping-Cart.git
+git clone [https://github.com/adil7616/ECommerce-Shopping-Cart.git](https://github.com/adil7616/Ecommers_System.git)
+
+2️⃣ Compile all Java files:
+
+javac *.java
+
+3️⃣ Run the main class:
+
+java ECommerceSystem
+
+**🏗️ Project Structure**
+
+|-- Product.java
+|-- User.java
+|-- Admin.java
+|-- Cart.java
+|-- Order.java
+|-- Payment.java (interface)
+|-- CreditCardPayment.java
+|-- UpiPayment.java
+|-- WalletPayment.java
+|-- Notification.java (abstract)
+|-- EmailNotification.java
+|-- SmsNotification.java
+|-- ECommerceSystem.java (main class)
+|-- README.md
+
